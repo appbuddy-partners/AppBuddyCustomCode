@@ -1,0 +1,58 @@
+.gbBtn, .gbBtnDisabled {background-color:white; border:solid 1px #d8dde6; font-size:14px; color:#0070d2; font-weight:normal;}
+.gbBtn:hover, .gbBtn:focus, .gbBtn:active, .gbBtnDisabled {background-color:#f4f6f9;}
+.gbForm .pageActionsBtn .ui-icon {top:1px;}
+h2.gridTitle {font-size:1.5rem; font-weight:normal; color:#16325C;}
+.gradientHeader {background-color:#FFFFFF;}
+.summaryRow {background-color:#EEF1F6;}
+
+/* yellow edited cells */
+td.ui-selectee.mod {background-color:#faffbd !important;}
+
+/* Quick filters */
+.quickFiltersBtn {background-color:#f9f9fa !important;}
+
+.colorCodingRuleWidget.color-4{background-color:#4BC076 !important;}
+
+#gbMainTable td[class*="gb-cf-bgColor-4"], .mainTable tr[class*="gb-cf-bgColor-4"] td{background-color:#4BC076 !important;}
+
+
+/*
+.gridBtns.top .gridBtnsCell {
+   margin-top: -15px;
+}
+*/
+.compactView .gradientHeader td, .compactView .childHeaderRow td, .compactView .mainTable .dr td {
+    white-space: nowrap !important;
+     text-transform: uppercase;
+}
+
+/*
+.gbBtn, .gbBtnDisabled {
+  
+    height: 20px;
+   
+}
+*/
+
+.gbLightning .gbBtn, .gbLightning .gbBtn.createNew, .gbLightning .gbBtnDisabled {
+    background-color: #ffffff;
+  
+}
+/*
+.mainTable .dr td {
+    padding: 5px;
+    background-color: rgb(253, 253, 253);
+
+}
+*/
+
+.mainTable, .childTable, .fixedHeaderClone {
+    border-collapse: seperate;
+}
+
+/*
+body {
+   
+    font-size: .75rem;
+}
+*/
